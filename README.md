@@ -24,7 +24,7 @@ I'm looking for a chance to learn something new.</div>
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<tr><td valign="top" width="33%">
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -45,7 +45,7 @@ I'm looking for a chance to learn something new.</div>
 
 
 
-</td></tr></table>  
+</td></tr>
 
 <br/>  
 
