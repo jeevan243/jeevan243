@@ -7,7 +7,7 @@
 </div>  
   
 
-### <div align="center">I'm a full-stack web developer with a passion for coding💻. As simple versions, I've worked on cloning websites using HTML, CSS, and JavaScript. Express, Node.js, and MongoDB were all used in a few of the projects I worked on. I've gotten some experience with it.
+### <div align="left">I'm a full-stack web developer with a passion for coding💻. As simple versions, I've worked on cloning websites using HTML, CSS, and JavaScript. Express, Node.js, and MongoDB were all used in a few of the projects I worked on. I've gotten some experience with it.
 I'm looking for a chance to learn something new.</div>  
   
 
