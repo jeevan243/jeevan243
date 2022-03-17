@@ -7,15 +7,12 @@
 </div>  
   
 
-### <div align="left">I'm a full-stack web developer with a passion for coding💻. As simple versions, I've worked on cloning websites using HTML, CSS, and JavaScript. Express, Node.js, and MongoDB were all used in a few of the projects I worked on. I've gotten some experience with it.
-I'm looking for a chance to learn something new.</div>  
+### <div align="left">Full-stack developer who is enthusiastic and self-motivated. MERN stack specialist with a keen interest in learning and working with new technology. I'm excited to work with new technologies and solve problems as part of a team. I enjoy working on a variety of challenging projects.</div>  
   
 
-- I’m currently learning🌱 React and applying them on a few basic applications you can check them here. [Click here](https://github.com/jeevan243/React---Assignments)  
-  
+- I’m currently learning🌱 React and applying them on a few basic applications you can check them here. [Click here](https://github.com/jeevan243/React---Assignments) 
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
-  
 
 - Aside from coding, I enjoy hiking, yoga, and travelling.  
   
