@@ -5,20 +5,18 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
 </div>  
-  
 
 ### <div align="left" font-size="5px">Full-Stack Web Developer who is enthusiastic and self-motivated. MERN stack specialist with a strong desire to learn and work with new technology. I'm looking forward to working with new technologies and solving problems as part of a team. I enjoy working on a variety of challenging projects.</div>  
-  
 
-- I’m currently learnin React and applying them on a few basic applications you can check them here. [Click here](https://github.com/jeevan243/React---Assignments) 
+- 🔭 I’m currently learning React  
 
-- Ask me about anything related to MERN stack and related technologies  
+- 💬 Ask me about MERN Stack and DSA  
 
-- Aside from coding, I enjoy hiking, yoga, and travelling.  
-  
+- 📫 Reach me at jeevanprasad8118@gmail.com
+
+- 👨‍💻 Check out my portfolio at www.jeevanprasad.in.net/ 
 
 <br/>  
-
 
 ## My Skill Set  
 <tr><td valign="top" width="33%">
