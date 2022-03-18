@@ -7,7 +7,7 @@
 </div>  
   
 
-### <div align="left" font-size="5px">Full-stack developer who is enthusiastic and self-motivated. MERN stack specialist with a keen interest in learning and working with new technology. I'm excited to work with new technologies and solve problems as part of a team. I enjoy working on a variety of challenging projects.</div>  
+### <div align="left" font-size="5px">A full-stack developer who is enthusiastic and self-motivated. MERN stack specialist with a strong desire to learn and work with new technology. I'm looking forward to working with new technologies and solving problems as part of a team. I enjoy working on a variety of challenging projects.</div>  
   
 
 - I’m currently learnin React and applying them on a few basic applications you can check them here. [Click here](https://github.com/jeevan243/React---Assignments) 
