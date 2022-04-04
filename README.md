@@ -33,7 +33,7 @@
 
 </div> -->
 <h3 align="left">Languages and Tools:</h3>
-### 👉 Frontend Development
+## 👉 Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank">   
@@ -53,7 +53,7 @@
    </a>
 </p>
 
-### 👉 Backend Development
+## 👉 Backend Development
 <p align="center" background-color="yellow"> 
   &emsp; 
   <a href="http://expressjs.com/" target="_blank"> 
