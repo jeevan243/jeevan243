@@ -27,19 +27,19 @@
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%23E34F26.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
 	&emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23E34F26.svg?style=plastic&logo=javascript&logoColor=white">
    </a>
 	&emsp;
 	<a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" target="_blank"> 
-     <img alt="React" src="https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=plastic&logo=react&logoColor=white">
+     <img alt="React" src="https://img.shields.io/badge/React%20-%23E34F26.svg?style=plastic&logo=react&logoColor=white">
    </a>
 	&emsp;
 	<a href="https:https://react-redux.js.org/introduction/getting-started" target="_blank">   
-   <img alt="Redux" src="https://img.shields.io/badge/Redux%20-%23F7DF1E.svg?style=plastic&logo=redux&logoColor=black">
+   <img alt="Redux" src="https://img.shields.io/badge/Redux%20-%23E34F26.svg?style=plastic&logo=redux&logoColor=white">
   </a>   
  
 </p>
