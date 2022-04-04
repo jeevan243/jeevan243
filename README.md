@@ -35,7 +35,7 @@
    </a>
 	&emsp;
 	<a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" target="_blank"> 
-     <img alt="React" src="https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=plastic&logo=react&logoColor=black">
+     <img alt="React" src="https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=plastic&logo=react&logoColor=white">
    </a>
 	&emsp;
 	<a href="https:https://react-redux.js.org/introduction/getting-started" target="_blank">   
