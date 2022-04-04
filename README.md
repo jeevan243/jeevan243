@@ -33,6 +33,7 @@
 
 </div> -->
 <h3 align="left">Languages and Tools:</h3>
+### 👉 Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank">   
@@ -51,6 +52,8 @@
      <img alt="React" src="https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=plastic&logo=react&logoColor=black">
    </a>
 </p>
+
+### 👉 Backend Development
 <p align="center" background-color="yellow"> 
   &emsp; 
   <a href="http://expressjs.com/" target="_blank"> 
