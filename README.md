@@ -22,7 +22,7 @@
 
 <p align="center"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank">   
+  <a href="https://html.com/" target="_blank">   
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a>   
   &emsp;
@@ -49,7 +49,7 @@
    <img alt="Express Js" src="https://img.shields.io/badge/ExpressJS%20-%23E34F26.svg?style=plastic&logo=express&logoColor=white">
   </a>   
 	&emsp; 
-  <a href="https://www.w3schools.com/nodejs/" target="_blank"> 
+  <a href="https://nodejs.org/" target="_blank"> 
    <img alt="Node Js" src="https://img.shields.io/badge/NodeJS%20-%23E34F26.svg?style=plastic&logo=nodejs&logoColor=white">
   </a>  &emsp; 
 	<a href="https://www.mongodb.com/" target="_blank"> 
@@ -75,7 +75,7 @@
 	<a href="https://styled-components.com/" target="_blank"> 
    <img alt="StyledComponents" src="https://img.shields.io/badge/StyledComponents%20-%23E34F26.svg?style=plastic&logo=styled-components&logoColor=white">
   </a>  &emsp; 
-	<a href="https://styled-components.com/" target="_blank"> 
+	<a href="https://www.postman.com/" target="_blank"> 
    <img alt="Postman" src="https://img.shields.io/badge/Postman%20-%23E34F26.svg?style=plastic&logo=postman&logoColor=white">
   </a> 
 </p>
