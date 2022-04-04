@@ -39,7 +39,7 @@
    </a>
 	&emsp;
 	<a href="https://www.w3.org/html/" target="_blank">   
-   <img alt="HTML" src="https://img.shields.io/badge/icons8-redux.svg?style=plastic&logo=redux&logoColor=white">
+   <img alt="Redux" src="https://img.shields.io/badge/Redux%20-%23F7DF1E.svg?style=plastic&logo=redux&logoColor=black">
   </a>   
   
 </p>
