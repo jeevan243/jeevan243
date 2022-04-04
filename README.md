@@ -37,6 +37,11 @@
 	<a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" target="_blank"> 
      <img alt="React" src="https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=plastic&logo=react&logoColor=black">
    </a>
+	&emsp;
+	<a href="https://www.w3.org/html/" target="_blank">   
+   <img alt="HTML" src="https://img.shields.io/badge/icons8-redux.svg?style=plastic&logo=html5&logoColor=white">
+  </a>   
+  
 </p>
 <p align="center" background-color="yellow"> 
   &emsp; 
