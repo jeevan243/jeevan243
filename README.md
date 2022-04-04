@@ -38,10 +38,10 @@
      <img alt="React" src="https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=plastic&logo=react&logoColor=black">
    </a>
 	&emsp;
-	<a href="https://www.w3.org/html/" target="_blank">   
+	<a href="https:https://react-redux.js.org/introduction/getting-started" target="_blank">   
    <img alt="Redux" src="https://img.shields.io/badge/Redux%20-%23F7DF1E.svg?style=plastic&logo=redux&logoColor=black">
   </a>   
-  
+  ##
 </p>
 <p align="center" background-color="yellow"> 
   &emsp; 
@@ -54,6 +54,10 @@
   </a>  &emsp; 
 	<a href="https://www.mongodb.com/" target="_blank"> 
    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%23E34F26.svg?style=plastic&logo=mongodb&logoColor=white">
+  </a> 
+	 &emsp; 
+	<a href="https://git-scm.com/" target="_blank"> 
+   <img alt="GitBash" src="https://img.shields.io/badge/GitBash%20-%23E34F26.svg?style=plastic&logo=gitbash&logoColor=white">
   </a> 
 </p>
 
