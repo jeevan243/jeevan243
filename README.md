@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Welcome+to+my+GitHub+Profile!;I'm++a+Full-Stack+Web+Developer.)](https://git.io/typing-svg)
 
-<div align="center" style="width:50%">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" />
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width:50%"/>
 </div>  
 
 ### <div align="left" font-size="5px">About me:👨🏽‍💻 <br><br> Full-Stack Web Developer who is enthusiastic and self-motivated. MERN stack specialist with a strong desire to learn and work with new technology. I'm looking forward to working with new technologies and solving problems as part of a team. I enjoy working on a variety of challenging projects.</div>  
