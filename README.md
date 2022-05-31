@@ -69,7 +69,6 @@
    <img alt="Postman" src="https://img.shields.io/badge/Postman%20-%23E34F26.svg?style=plastic&logo=postman&logoColor=white">
   </a> 
 </p>
-
 </td><td valign="top" width="33%">
 
 </td><td valign="top" width="33%">
