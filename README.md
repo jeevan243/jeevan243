@@ -34,8 +34,7 @@
 	&emsp;
 	<a href="https://react-redux.js.org/" target="_blank">   
    <img alt="Redux" src="https://img.shields.io/badge/Redux%20-%23E34F26.svg?style=plastic&logo=redux&logoColor=white">
-  </a>   
- 
+  </a>    
 </p>
 <p align="center" background-color="yellow"> 
   &emsp; 
@@ -104,10 +103,3 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jeevan243&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevan243" alt="Jeevan" /></p> -->
 <br/>  
-
-
-
-
-
-
-
