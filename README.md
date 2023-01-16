@@ -4,7 +4,7 @@
 
 ### <div align="left" font-size="2px">About me:👨🏽‍💻 <br><br> <p>Dedicated and efficient Software Developer with a passion for development and proficiency in JavaScript. Team player with an eye for detail and proven time management skills. Looking to leverage my knowledge and skills in an exciting opportunity as a software developer.</p></div>  
 
-- 💬 Ask me about MERN Stack and DSA  
+- 💬 Ask me about Frontend and Backend  
 
 - 📫 Reach me at jeevanprasad8118@gmail.com
 
